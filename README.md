@@ -1,6 +1,5 @@
-# Financial-Health-Dashboard
-This is a financial health dashboard I've built to help small business owners gain a overview of their business' health with a forecast of future performance. 
 📊 Small Business Financial Health Dashboard
+This is a financial health dashboard I've built to help small business owners gain an overview of their business's health with a forecast of future performance. 
 
 An interactive dashboard that helps small business owners monitor financial performance, identify trends, and forecast revenue. Built using Python, SQL, and Streamlit.
 
@@ -29,15 +28,15 @@ Dashboard: Streamlit
 Data: [Kaggle/Open dataset or synthetic data you generated]
 
 📂 Project Structure
-financial-health-dashboard/
-│
-├── data/               # Raw & processed datasets
-├── notebooks/          # Jupyter notebooks for EDA, modeling
-├── src/                # Python scripts (data prep, forecasting)
-├── dashboard/          # Streamlit app files
-├── reports/            # Figures, screenshots, demo recordings
-├── LICENSE             # MIT License
-└── README.md           # Project overview
+financial-health-dashboard/ <br>
+│ <br>
+├── data/               # Raw & processed datasets <br>
+├── notebooks/          # Jupyter notebooks for EDA, modeling <br>
+├── src/                # Python scripts (data prep, forecasting) <br>
+├── dashboard/          # Streamlit app files <br>
+├── reports/            # Figures, screenshots, demo recordings <br>
+├── LICENSE             # MIT License <br>
+└── README.md           # Project overview <br>
 
 🚀 Getting Started
 1️⃣ Clone the repository
