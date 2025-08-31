@@ -12,19 +12,17 @@ An interactive dashboard to monitor revenue, expenses, and profit trends for sma
 ## 🛠️ Tech Stack  
 Python, SQL, pandas, matplotlib, seaborn, plotly, prophet, Streamlit  
 
+## 📊 Demo
+ - 🔗 Live Demo
+- 📷 See /reports/figures for screenshots
+
+## 📜 License
+MIT License — see LICENSE
+
 ## 🚀 Quick Start  
 ```bash
-git clone https://github.com/yourusername/financial-health-dashboard.git  
+git clone https://github.com/gabcharlton/financial-health-dashboard.git  
 cd financial-health-dashboard  
 pip install -r requirements.txt  
 streamlit run dashboard/app.py  
 
-📊 Demo
-
-🔗 Live Demo
-
-📷 See /reports/figures for screenshots
-
-📜 License
-
-MIT License — see LICENSE
