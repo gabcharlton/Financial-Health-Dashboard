@@ -40,9 +40,6 @@ The dataset contains **4 CSV files** representing different business accounts:
 - employee_name (Owner, Barista 1, Barista 2, Contractor)  
 - role (Owner, Barista, Manager, Contractor)  
 - gross_pay  
-- net_pay  
-- taxes  
-- benefits  
 
 ---
 
