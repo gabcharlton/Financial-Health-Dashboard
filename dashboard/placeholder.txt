@@ -1,1 +1,7 @@
+# Dependencies
+**pandas**
+- numpy
+- matplotlib
+- plotly
+- python-dateutil
 
